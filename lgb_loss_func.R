@@ -1,4 +1,3 @@
-library(xgboost)
 library(lightgbm)
 #define objective function and evaluation function
 
